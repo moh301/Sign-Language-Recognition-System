@@ -1,6 +1,6 @@
 # Real-Time Sign Language Recognition and Translation System
 
-![Project Banner](https://images.unsplash.com/photo-1534665482403-a909d0d97c67?q=80&w=1000&auto=format&fit=crop)
+**Developed by:** Mohamed (moh301)
 
 An end-to-end Assistive Technology platform designed to bridge the communication gap for the deaf and mute community. This system captures sign language gestures via a standard webcam, extracts biological hand features in real-time, and translates them into text and multi-lingual speech.
 
